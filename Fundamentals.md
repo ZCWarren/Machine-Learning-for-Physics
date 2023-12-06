@@ -96,26 +96,26 @@ Deep learning methods can be used for all the tasks discussed previously.
 
 1. Neural Networks
 
-        At the heart of deep learning are "neural networks", which consist of layers of interconnected nodes. These networks can be deep, with multiple hidden layers, allowing them to automatically extract hierarchical features from raw data. The input layer receives data, hidden layers process information, and the output layer produces final results.
+    At the heart of deep learning are "neural networks", which consist of layers of interconnected nodes. These networks can be deep, with multiple hidden layers, allowing them to automatically extract hierarchical features from raw data. The input layer receives data, hidden layers process information, and the output layer produces final results.
 
 2. Activation Functions
 
-        Nodes in neural networks employ "activation functions" to introduce non-linearities into the model. Common activation functions include sigmoid, hyperbolic tangent (tanh), and rectified linear unit (ReLU). These non-linearities enable the network to learn intricate relationships and capture complex patterns in the data.
+    Nodes in neural networks employ "activation functions" to introduce non-linearities into the model. Common activation functions include sigmoid, hyperbolic tangent (tanh), and rectified linear unit (ReLU). These non-linearities enable the network to learn intricate relationships and capture complex patterns in the data.
 
 3. Training and Backpropagation
 
-        Deep learning models undergo a training process facilitated by "backpropagation". During training, the model makes predictions, and the error is backpropagated through the network. This iterative process adjusts the weights of connections, enhancing the model's ability to make accurate predictions.
+    Deep learning models undergo a training process facilitated by "backpropagation". During training, the model makes predictions, and the error is backpropagated through the network. This iterative process adjusts the weights of connections, enhancing the model's ability to make accurate predictions.
 
 4. Convolutional Neural Networks (CNNs)
         
-        CNNs are a type of deep neural network designed for tasks like image and video analysis. They use convolutional layers to automatically and adaptively learn spatial hierarchies of features from input data.
+    CNNs are a type of deep neural network designed for tasks like image and video analysis. They use convolutional layers to automatically and adaptively learn spatial hierarchies of features from input data.
 
 5. Recurrent Neural Networks (RNNs)
 
-        RNNs are designed for sequential data, such as time series or natural language. They have connections that form cycles, allowing them to capture dependencies over time. Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU) are popular types of RNNs.
+    RNNs are designed for sequential data, such as time series or natural language. They have connections that form cycles, allowing them to capture dependencies over time. Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU) are popular types of RNNs.
 6. Transfer Learning
 
-        Transfer learning involves using pre-trained models on one task and fine-tuning them for a different but related task. This is especially useful when dealing with limited labeled data for a specific problem.
+    Transfer learning involves using pre-trained models on one task and fine-tuning them for a different but related task. This is especially useful when dealing with limited labeled data for a specific problem.
 
 ### Applications
 
